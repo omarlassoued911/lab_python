@@ -1,0 +1,5 @@
+a=int((input("a= ")))
+b=int((input("b= ")))
+print("the sum of ",a," and ",b," is ",a+b)
+print("the difference of ",a," and ",b," is ",a-b)
+print("the product of ",a," and ",b," is ",a*b)
